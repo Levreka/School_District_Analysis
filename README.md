@@ -30,10 +30,12 @@ How is the school summary affected
 ![image](https://user-images.githubusercontent.com/90356052/137690150-69d711c2-849f-48e0-b4dc-14e3418f3a24.png)
 
  
-o	
-o	Scores by school size- the change by school size was so small that once we rounded and formatted our data, there seem to be no change at all the school size and scores.
-o	
-o	Scores by school type-  by school type district is not affected by Thomas Highschool at all, since it is label as a charter school. The charter schools average math and reading scores also are hardly affected but just like we said before it does drop however the overall charter schools passing % for both reading and math and it brings their overall score % of passing to 90. 
-Summary:  Four changes we can observe in our analysis is that by removing the 9th graders Thomas Highschool drops in its ranking from the top 2 place to more in the middle of the chart. Individually other schools are not affected by the elimination of data, but The Highschool on its own percentage score of passing is reduced. When we group the schools according to the type of school (district, charter), there is a drop in the overall category for passing grade. Overall spending average per student also raises due to removing the 9th grade. 
+	
+    * Scores by school size- the change by school size was so small that once we rounded and formatted our data, there seem to be no change at all the school size and scores.
+	
+    * Scores by school type-  by school type district is not affected by Thomas Highschool at all, since it is label as a charter school. The charter schools average math and reading scores also are hardly affected but just like we said before it does drop however the overall charter schools passing % for both reading and math and it brings their overall score % of passing to 90. 
+
+# Summary:  
+Four changes we can observe in our analysis is that by removing the 9th graders Thomas Highschool drops in its ranking from the top 2 place to more in the middle of the chart. Individually other schools are not affected by the elimination of data, but The Highschool on its own percentage score of passing is reduced. When we group the schools according to the type of school (district, charter), there is a drop in the overall category for passing grade. Overall spending average per student also raises due to removing the 9th grade. 
 
 
