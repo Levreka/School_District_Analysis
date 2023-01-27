@@ -12,7 +12,7 @@ The purpose after being informed by Maria that her supervisor has found evidence
 
  
 
-How is the school summary affected
+* How is the school summary affected
 	
  Although the average math and average reading scores are slightly affected the % of passing math and passing reading scores has significantly change and drop. Initially they were above 90% after removing 9th Graders now they stand between 60%to 70%. It did not however affect the other schools and the change we see is only in Thomas School alone
 
