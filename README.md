@@ -5,7 +5,7 @@ The purpose after being informed by Maria that her supervisor has found evidence
 # Results:
 *	How is the district summary affected?
  
- School District Summary shows that by excluding the 9th graders math and reading scores from Thomas Highschool. Slightly affects the over all tenth of average scores in both math and reading. The slight decrease hardly affected the total count but it does affect school summary
+ School District Summary shows that by excluding the 9th graders math and reading scores from Thomas Highschool. Slightly affects the over all average scores in both math and reading. The slight decrease hardly affected the total count but it does affect school summary.
 
 ![image](https://user-images.githubusercontent.com/90356052/137690086-1fd85e23-30af-45c7-9aa3-48e3d6aee9f0.png)
 
@@ -14,7 +14,8 @@ The purpose after being informed by Maria that her supervisor has found evidence
 
 * How is the school summary affected
 	
- Although the average math and average reading scores are slightly affected the % of passing math and passing reading scores has significantly change and drop. Initially they were above 90% after removing 9th Graders now they stand between 60%to 70%. It did not however affect the other schools and the change we see is only in Thomas School alone
+ Although the average math and average reading scores are slightly affected the % of passing math and passing reading scores has not drasticly change and drop. 
+ there was only a drop of 3% in both reading and math passing percentage. After removing 9th Graders there was only a drop of 3% in both reading and math passing percentage. 
 
 
 *	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -27,7 +28,7 @@ The purpose after being informed by Maria that her supervisor has found evidence
     
     *	Scores by school spending- if you see the image below you can see there was a jump in spending between the ranges of 585-644 specially in the average math scores.
 
-![image](https://user-images.githubusercontent.com/90356052/137690150-69d711c2-849f-48e0-b4dc-14e3418f3a24.png)
+![image](https://github.com/Levreka/School_District_Analysis/blob/main/Resources/images/scores_by_school_type.png)
 
  
 	
