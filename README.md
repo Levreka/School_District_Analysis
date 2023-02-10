@@ -30,7 +30,7 @@ The purpose after being informed by Maria that her supervisor has found evidence
     
     *	Scores by school spending- if you see the image below you can see there was a jump in spending between the ranges of 585-644 specially in the average math scores.
 
-![image](https://github.com/Levreka/School_District_Analysis/blob/main/Resources/images/scores_by_school_type.png)
+![image](https://github.com/Levreka/School_District_Analysis/blob/main/Resources/images/scores_by_spending.png)
 
  
 	
