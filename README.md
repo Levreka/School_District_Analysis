@@ -7,7 +7,7 @@ The purpose after being informed by Maria that her supervisor has found evidence
  
  School District Summary shows that by excluding the 9th graders math and reading scores from Thomas Highschool. Slightly affects the over all average scores in both math and reading. The slight decrease hardly affected the total count but it does affect school summary.
 
-![image](https://user-images.githubusercontent.com/90356052/137690086-1fd85e23-30af-45c7-9aa3-48e3d6aee9f0.png)
+![image](https://github.com/Levreka/School_District_Analysis/blob/main/Resources/images/scores_by_school_type.png)
 
 
  
