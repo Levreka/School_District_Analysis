@@ -28,13 +28,11 @@ The purpose after being informed by Maria that her supervisor has found evidence
 	
     *	Math and reading scores by grade- the only Scores currently being affected by the removal of the 9th graders is Thomas. Currently showing (nan) for both reading and math scores and affecting its overall passing %
     
-    *	Scores by school spending- if you see the image below you can see there was a jump in spending between the ranges of 585-644 specially in the average math scores.
+    *	Scores by school spending- if you see the image below you can see there was no changes in small and large schools in the district and a small decrease in the scores for mid spending schools.
 
 ![image](https://github.com/Levreka/School_District_Analysis/blob/main/Resources/images/scores_by_spending.png)
 
  
-	
-    * Scores by school size- the change by school size was so small that once we rounded and formatted our data, there seem to be no change at all the school size and scores.
 	
     * Scores by school type-  by school type district is not affected by Thomas Highschool at all, since it is label as a charter school. The charter schools average math and reading scores also are hardly affected but just like we said before it does drop however the overall charter schools passing % for both reading and math and it brings their overall score % of passing to 90. 
 
