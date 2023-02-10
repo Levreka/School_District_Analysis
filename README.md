@@ -19,6 +19,8 @@ The purpose after being informed by Maria that her supervisor has found evidence
 
 
 *	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+![image](https://github.com/Levreka/School_District_Analysis/blob/main/Resources/images/thomas_ranking.png)
 	
 	After removing the 9th Graders scores Thomas high school moved from our original evaluation of being 2 on the top 5 schools, to now being in the middle of the data set. So its ranking relative to other schools was significantly affected by the removal. 
 	
